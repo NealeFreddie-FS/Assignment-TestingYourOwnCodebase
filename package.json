@@ -1,0 +1,14 @@
+{
+  "name": "assignment-testing-your-codebase",
+  "version": "1.0.0",
+  "description": "Testing assignment for JavaScript functions",
+  "main": "functions.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "type": "commonjs"
+}
